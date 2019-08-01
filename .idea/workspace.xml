@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4c9cc814-db4f-468a-8fea-28ba06d85378" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson-1-async-w-xhr/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-1-async-w-xhr/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson-1-async-w-xhr/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-1-async-w-xhr/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-2-async-w-jQuery/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-2-async-w-jQuery/app.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,12 +17,12 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+        <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/lesson-1-async-w-xhr/index.html">
+            <entry file="file://$PROJECT_DIR$/lesson-1-async-w-xhr/app.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="483">
-                  <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+                <state relative-caret-position="742">
+                  <caret line="47" column="39" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="39" />
                 </state>
               </provider>
             </entry>
@@ -33,10 +32,14 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/lesson-1-async-w-xhr/app.js">
+            <entry file="file://$PROJECT_DIR$/lesson-2-async-w-jQuery/app.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="741">
-                  <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+                <state relative-caret-position="609">
+                  <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                    <marker date="1564685382109" expanded="true" signature="1001:1398" ph="..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -58,6 +61,7 @@
       <list>
         <option value="$PROJECT_DIR$/lesson-1-async-w-xhr/index.html" />
         <option value="$PROJECT_DIR$/lesson-1-async-w-xhr/app.js" />
+        <option value="$PROJECT_DIR$/lesson-2-async-w-jQuery/app.js" />
       </list>
     </option>
   </component>
@@ -94,6 +98,16 @@
               <item name="course-ajax" type="b2602c69:ProjectViewProjectNode" />
               <item name="course-ajax" type="462c0819:PsiDirectoryNode" />
               <item name="lesson-1-async-w-xhr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-ajax" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-ajax" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson-2-async-w-jQuery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-ajax" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-ajax" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson-3-async-w-fetch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -133,12 +147,13 @@
       <option name="presentableId" value="Default" />
       <updated>1564507065668</updated>
       <workItem from="1564507067116" duration="5720000" />
-      <workItem from="1564593966912" duration="2196000" />
+      <workItem from="1564593966912" duration="3371000" />
+      <workItem from="1564676900772" duration="3335000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7916000" />
+    <option name="totallyTimeSpent" value="12426000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-43" y="-1080" width="1920" height="1080" extended-state="0" />
@@ -168,28 +183,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.js" />
-    <entry file="file://$PROJECT_DIR$/lesson-2-async-w-jQuery/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson-3-async-w-fetch/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson-2-async-w-jQuery/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
@@ -204,10 +197,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-2-async-w-jQuery/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-489">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-3-async-w-fetch/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-2-async-w-jQuery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lesson-1-async-w-xhr/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        <state relative-caret-position="742">
+          <caret line="47" column="39" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-2-async-w-jQuery/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1564685382109" expanded="true" signature="1001:1398" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
