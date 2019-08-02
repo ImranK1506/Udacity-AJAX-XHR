@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c9cc814-db4f-468a-8fea-28ba06d85378" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson-3-async-w-fetch/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-3-async-w-fetch/app.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -47,8 +46,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lesson-3-async-w-fetch/app.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="714">
-                  <caret line="34" column="58" lean-forward="true" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
+                <state relative-caret-position="315">
+                  <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
                 </state>
               </provider>
             </entry>
@@ -169,12 +168,12 @@
       <workItem from="1564507067116" duration="5720000" />
       <workItem from="1564593966912" duration="3371000" />
       <workItem from="1564676900772" duration="3809000" />
-      <workItem from="1564730686813" duration="6412000" />
+      <workItem from="1564730686813" duration="6659000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19312000" />
+    <option name="totallyTimeSpent" value="19559000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-408" y="-1440" width="2560" height="1440" extended-state="0" />
@@ -192,7 +191,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.18463811" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.18463811" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -264,8 +263,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson-3-async-w-fetch/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="34" column="58" lean-forward="true" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
+        <state relative-caret-position="315">
+          <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
         </state>
       </provider>
     </entry>

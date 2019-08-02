@@ -9,9 +9,11 @@
         responseContainer.innerHTML = '';
         searchedForText = searchField.value;
 
+      // Fetch API method to handle response and receive the json object from the NYT
       fetch(`https://api.nytimes.com/svc/news/v3/content/all/all.json?q=${searchedForText}&api-key=IL6WzlQkWXfUkp3AtrqvMzG0FRLXWW5e`)
         .then(response => response.json())
-        .then(addArticles);
+        .then(addArticles)
+        .catch(e => requestError(e, ' service'));
 
       // Fetch API method to handle response and receive the json object
       fetch(`https://api.unsplash.com/search/photos?page=1&query=${searchedForText}`,
@@ -49,7 +51,7 @@
         </figure>`;
       } else {
         // If no images available to be returned
-        htmlContent = 'No images to be found'
+        htmlContent = '<div class="no-data">No images to be found</div>'
       }
       responseContainer.insertAdjacentHTML('afterbegin', htmlContent);
     }
@@ -68,7 +70,7 @@
       '</ul>';
     } else {
       //  If no article available to be returned
-      htmlContent = 'No articles to be found'
+      htmlContent = '<div class="no-data">No articles to be found</div>'
     }
     responseContainer.insertAdjacentHTML('beforeend', htmlContent);
   }
